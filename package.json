@@ -25,6 +25,6 @@
     "json-schema-defaults": "^0.3.0",
     "lodash": "^4.17.4",
     "parse": "^1.10.0",
-    "tv4-node": "0.0.0"
+    "tv4-node": "0.0.1"
   }
 }
