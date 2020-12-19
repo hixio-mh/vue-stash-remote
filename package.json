@@ -22,7 +22,7 @@
   "homepage": "https://github.com/coderofsalvation/vue-stash-remote#readme",
   "dependencies": {
     "axios": "^0.16.1",
-    "json-schema-defaults": "^0.3.0",
+    "json-schema-defaults": "^0.4.0",
     "lodash": "^4.17.4",
     "parse": "^1.10.0",
     "tv4-node": "0.0.0"
